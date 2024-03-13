@@ -1,0 +1,16 @@
+{
+  "name": "ciberseguridad2024e",
+  "version": "1.0.0",
+  "description": "Este proyecto es para hacer pruebas de la materia de Ciberseguridad con 7A IDGS el 2024E",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "\"Cedrick Axel Morán Reyes\",",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.3"
+  },
+  "devDependencies": {}
+}
